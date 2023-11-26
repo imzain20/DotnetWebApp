@@ -25,11 +25,18 @@ pipeline {
         stage('Test') {
             steps {
                 script {
-                    echo 'Running tests...'
-                    sh 'dotnet test'
+                        echo 'Running unit tests...'
+                        sh 'dotnet test'  // Run unit tests using the default test runner
+
+                        echo 'Running integration tests...'
+                        // Add commands to run integration tests (e.g., using a different test runner)
+
+                        echo 'Running end-to-end tests...'
+                        // Add commands to run end-to-end tests (e.g., using a different test runner)
                 }
             }
         }
+
 
         stage('Publish') {
             steps {
