@@ -36,7 +36,12 @@ app.MapGet("/", context =>
         <body>
             <h1>Welcome to My Web Application</h1>
             <div class='container'>
-                <p>This is a simple web application built with ASP.NET Core. It is build using Jenkins pipeline.</p>
+                <p>This is a simple web application built with ASP.NET Core and build using Jenkins pipeline.</p>
+                <ul>
+                    <li>Item 1</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                </ul>
             </div>
         </body>
         </html>
