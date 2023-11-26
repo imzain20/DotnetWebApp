@@ -1,5 +1,3 @@
-C:\Users\imzai\OneDrive\Desktop\WebApp.Net\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\imzai\OneDrive\Desktop\WebApp.Net\bin\Debug\net8.0\appsettings.json
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\bin\Debug\net8.0\WebApp.Net.exe
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\bin\Debug\net8.0\WebApp.Net.deps.json
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\bin\Debug\net8.0\WebApp.Net.runtimeconfig.json
@@ -10,6 +8,7 @@ C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.AssemblyI
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.AssemblyInfo.cs
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.csproj.CoreCompileInputs.cache
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.sourcelink.json
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Net.Microsoft.AspNetCore.StaticWebAssets.props
@@ -23,4 +22,3 @@ C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\refint\WebApp.Net.dl
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.pdb
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.genruntimeconfig.cache
 C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\ref\WebApp.Net.dll
-C:\Users\imzai\OneDrive\Desktop\WebApp.Net\obj\Debug\net8.0\WebApp.Net.sourcelink.json
